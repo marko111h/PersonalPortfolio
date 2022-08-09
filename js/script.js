@@ -3,16 +3,16 @@ const anagramJS = document.getElementById('anagramJS');
 const anagramRE = document.getElementById('anagramRE');
 
 const openLinkS = () => {
-  window.open('https://github.com/marko111h/Simon-Game', '_blank');
-  window.open('https://github.com/marko111h/Simon-Game');
+  window.open('https://simon-game-marko.netlify.app', '_blank');
+  window.open('https://simon-game-marko.netlify.app');
 };
 const openLinkAjs = () => {
   window.open('https://github.com/marko111h/AnagramJs', '_blank');
   window.open('https://github.com/marko111h/AnagramJs');
 };
 const openLinkAre = () => {
-  window.open('https://github.com/marko111h/AnagramRE', '_blank');
-  window.open('https://github.com/marko111h/AnagramRE');
+  window.open('https://anagram-re.netlify.app/', '_blank');
+  window.open('https://anagram-re.netlify.app/');
 };
 
 simonGame.addEventListener('click', openLinkS);
