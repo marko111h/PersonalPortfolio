@@ -7,8 +7,8 @@ const openLinkS = () => {
   window.open('https://simon-game-marko.netlify.app');
 };
 const openLinkAjs = () => {
-  window.open('https://github.com/marko111h/AnagramJs', '_blank');
-  window.open('https://github.com/marko111h/AnagramJs');
+  window.open('https://anagram-js.netlify.app/', '_blank');
+  window.open('https://anagram-js.netlify.app/');
 };
 const openLinkAre = () => {
   window.open('https://anagram-re.netlify.app/', '_blank');
