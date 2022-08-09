@@ -18,3 +18,5 @@ const openLinkAre = () => {
 simonGame.addEventListener('click', openLinkS);
 anagramJS.addEventListener('click', openLinkAjs);
 anagramRE.addEventListener('click', openLinkAre);
+
+////ssss
